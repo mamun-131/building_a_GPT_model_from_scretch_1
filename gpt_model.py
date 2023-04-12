@@ -1,5 +1,4 @@
 
-#https://wingedsheep.com/building-a-language-model/#comment-6159784252
 
 import random
 from typing import List
